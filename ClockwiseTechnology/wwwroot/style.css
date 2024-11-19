@@ -1,0 +1,43 @@
+.navbar{
+    background-color: yellow;
+    border: #006bb7 2px solid;
+}
+.debug{
+    border: 1px solid red;
+}
+
+.navbar-brand{
+    width: 8rem;
+    display: flex;
+    align-items: center;
+    
+}
+.hero{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.first-hero-text{
+    font-weight: bold;
+    font-size: 3.3rem;
+    line-height: normal;
+}
+.hero-description{
+    color: gray;
+    font-size: 1.4rem;
+}
+#clockwiseLogo{
+    width: 100%;
+}
+.logo-text{
+    font-weight: bolder;
+}
+.hero-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.hero-img{
+    width: 100%;
+}
+
+/* https://cdn.pixabay.com/photo/2014/08/14/10/38/software-417880_640.jpg */
